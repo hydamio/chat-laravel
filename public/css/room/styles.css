@@ -1,0 +1,24 @@
+a {
+  margin-left: 10px;
+}
+
+.header-input-text {
+  width: 50%;
+  margin-right: 5px;
+}
+
+.room-create-form {
+  width: 400px;
+  margin: 30px auto;
+}
+
+.input-parts {
+  width : 100%;
+  font-size:25px;
+  padding: 5px 10px;
+}
+
+.error {
+  font-size: 12px;
+  color: tomato;
+}
